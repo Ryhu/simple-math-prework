@@ -19,7 +19,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return Math.sqrt(num1, num2)
 end
 
 def order_of_operation(num1, num2, num3, num4)
